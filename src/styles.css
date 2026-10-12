@@ -421,12 +421,6 @@ kbd {
   line-height: 0.94;
   letter-spacing: -0.05em;
 }
-.hero h1 em {
-  font-family: var(--font-serif);
-  font-weight: 400;
-  letter-spacing: -0.025em;
-  color: var(--ink-2);
-}
 .hero-lede {
   margin: 32px 0 0;
   max-width: 54ch;

@@ -190,9 +190,7 @@ export default function App() {
       </header>
 
       <section className="hero">
-        <h1>
-          Game icons, <em>drawn on a&nbsp;24&#8209;pixel grid.</em>
-        </h1>
+        <h1>Game icons</h1>
         <p className="hero-lede">
           {iconCount.toLocaleString()} icons for interfaces, prototypes and games. Search the set, browse it by
           category, and copy any icon as SVG markup or a typed React component.
